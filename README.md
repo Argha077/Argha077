@@ -115,7 +115,7 @@ I am a BCA student and a passionate full-stack web developer with a strong incli
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/isudiptodas/isudiptodas/blob/main/Github_Profile_README.gif"  />
+  <img height="400" src="https://github.com/Argha077/Argha077/blob/main/cat.gif?raw=true"  />
 </div>
 
 <br>
